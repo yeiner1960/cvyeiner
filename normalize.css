@@ -347,3 +347,9 @@ template {
 [hidden] {
   display: none;
 }
+
+@media (max-width: 390px){
+   .nevagacion-principal a{
+      display:block; 
+   }
+}
